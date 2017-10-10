@@ -7,7 +7,7 @@ The Text Analytics API is a suite of text analytics web services built with best
 * Credentials: key
 
 ## How to get credentials: 
-1. Subscribe to the Microsoft Text Analytics API on the [Microsoft Azure portal].(https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/).
+1. Subscribe to the Microsoft Text Analytics API on the [Microsoft Azure portal](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/).
 2. Click create button.
 3. In settings->credential section you will see apiKey (Ocp-Apim-Subscription-Key)
 
