@@ -8,7 +8,6 @@
         "API",
         "analytics",
         "text",
-        "bing",
         "microsoft"
     ],
     "accounts": {
@@ -17,6 +16,11 @@
             "key"
         ]
     },
+    "steps": [
+        "Subscribe to the Microsoft Text Analytics API on the https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/",
+        "Click create button",
+        "In settings->credential section you will see apiKey (Ocp-Apim-Subscription-Key)"
+    ],
     "blocks": [
         {
             "name": "gerKeyPhrases",
@@ -31,7 +35,7 @@
                 {
                     "name": "region",
                     "type": "String",
-                    "info": "Region. Example: westcentralus",
+                    "info": "The region that most closely describes your location.Example: westcentralus",
                     "required": true
                 },
                 {
@@ -63,7 +67,7 @@
                 {
                     "name": "region",
                     "type": "String",
-                    "info": "Region. Example: westcentralus",
+                    "info": "The region that most closely describes your location.Example: westcentralus",
                     "required": true
                 },
                 {
@@ -101,7 +105,7 @@
                 {
                     "name": "region",
                     "type": "String",
-                    "info": "Region. Example: westcentralus",
+                    "info": "The region that most closely describes your location.Example: westcentralus",
                     "required": true
                 },
                 {
