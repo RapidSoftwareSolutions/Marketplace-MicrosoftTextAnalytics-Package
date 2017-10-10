@@ -1,4 +1,4 @@
-[![](https://scdn.rapidapi.com/RapidAPI_banner.png)](https://rapidapi.com/package/MicrosoftWebLangModel/functions?utm_source=RapidAPIGitHub_MicrosoftWebLangModelFunctions&utm_medium=button&utm_content=RapidAPI_GitHub)
+[![](https://scdn.rapidapi.com/RapidAPI_banner.png)](https://rapidapi.com/package/MicrosoftTextAnalytics/functions?utm_source=RapidAPIGitHub_MicrosoftTextAnalyticsFunctions&utm_medium=button&utm_content=RapidAPI_GitHub)
 
 # MicrosoftTextAnalytics Package
 The Text Analytics API is a suite of text analytics web services built with best-in-class Microsoft machine learning algorithms. The API can be used to analyze unstructured text for tasks such as sentiment analysis, key phrase extraction and language detection. No training data is needed to use this API; just bring your text data. This API uses advanced natural language processing techniques to deliver best in class predictions.
